@@ -18,3 +18,7 @@ function DivisionStringified(num1,num2) {
 // keep this function call here
 // to see how to enter arguments in JavaScript scroll down
 DivisionStringified(123456789,10000);
+DivisionStringified(123456789,1000);
+DivisionStringified(123456789,100);
+DivisionStringified(123456789,10);
+DivisionStringified(123456789,1);
