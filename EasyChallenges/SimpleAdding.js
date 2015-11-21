@@ -8,4 +8,6 @@ function SimpleAdding(num) {
 
 // keep this function call here
 // to see how to enter arguments in JavaScript scroll down
-SimpleAdding(readline());
+SimpleAdding(5);
+SimpleAdding(45);
+SimpleAdding(10);
