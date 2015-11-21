@@ -9,4 +9,4 @@ function LetterCapitalize(str) {
 
 // keep this function call here
 // to see how to enter arguments in JavaScript scroll down
-LetterCapitalize(readline());
+LetterCapitalize("hello world");
