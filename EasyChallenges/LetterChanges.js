@@ -16,4 +16,4 @@ function LetterChanges(str) {
 
 // keep this function call here
 // to see how to enter arguments in JavaScript scroll down
-LetterChanges(readline());
+LetterChanges("hello world");
