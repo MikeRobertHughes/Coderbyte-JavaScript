@@ -19,3 +19,4 @@ function LongestWord(sen) {
 // keep this function call here
 // to see how to enter arguments in JavaScript scroll down
 LongestWord("Argument goes here");
+LongestWord("This is another test");
