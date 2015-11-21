@@ -12,4 +12,7 @@ function SimpleSymbols(str) {
 
 // keep this function call here
 // to see how to enter arguments in JavaScript scroll down
-SimpleSymbols(readline());
+SimpleSymbols("++d+===+c+===a");
+SimpleSymbols("++d+===+c+===+a");
+SimpleSymbols("++d+===+c+===+a+");
+SimpleSymbols("++d+===+c+===a+");
